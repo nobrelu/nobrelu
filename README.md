@@ -1,4 +1,19 @@
-### Hi there 👋
+### Luciana Nobre  🐘
+
+
+
+ <div>
+  <a href="https://github.com/nobrelu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nobrelu&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobrelu&layout=compact&langs_count=7&theme=vue"/>
+</div>
+
+
+
+
+
+
+
 
 <!--
 **nobrelu/nobrelu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
